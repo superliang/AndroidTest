@@ -1,4 +1,4 @@
-package com.liang.androidtest;
+package com.liang.androidtest.activity;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -10,6 +10,8 @@ import android.support.v4.view.ViewPager;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import com.liang.androidtest.R;
 
 public class ViewPagerActivity extends Activity {
 	private View view1,view2,view3;

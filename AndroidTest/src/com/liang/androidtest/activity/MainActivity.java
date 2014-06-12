@@ -1,8 +1,10 @@
-package com.liang.androidtest;
+package com.liang.androidtest.activity;
 
-import android.os.Bundle;
 import android.app.Activity;
+import android.os.Bundle;
 import android.view.Menu;
+
+import com.liang.androidtest.R;
 
 public class MainActivity extends Activity {
 
